@@ -105,22 +105,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srivatsav-kada&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivatsav-kada&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivatsav-kada&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Certifications & Publications
 
 ✅ **Virtual Trial Room using CA-GAN** — Published in IJNRD (2023)  
