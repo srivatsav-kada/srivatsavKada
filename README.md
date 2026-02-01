@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sri Vatsav Kada</h1>
-<h3 align="center">Software Engineer | Angular Specialist | Frontend + Full-Stack Web Developer 🚀</h3>
+<h3 align="center">Software Engineer | Angular Specialist | Frontend | Full-Stack Web Developer 🚀</h3>
 
 <p align="center">
   <a href="mailto:srivatsavkada@gmail.com">📩 srivatsavkada@gmail.com</a> •
